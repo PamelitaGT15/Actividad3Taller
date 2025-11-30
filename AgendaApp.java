@@ -2,6 +2,7 @@ package com.thermoaire.agenda;
 
 import java.util.Scanner;
 import java.util.List;
+// Pequeño cambio para probar GitHub Actions
 
 /**
  * Aplicacion principal de la Agenda Empresarial.
