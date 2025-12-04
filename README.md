@@ -17,7 +17,6 @@ Esto provoca:
 - Riesgos operativos en la programación de servicios  
 
 Esta problemática fue identificada directamente con el personal administrativo y técnico de la empresa.  
-(Ref. Actividad 2, páginas 1–4) :contentReference[oaicite:2]{index=2}
 
 ### Solución Propuesta
 Se implementa un sistema local que permite:
@@ -29,7 +28,6 @@ Se implementa un sistema local que permite:
 - Mejorar la precisión y acceso a la información  
 
 La aplicación funciona en cualquier equipo con Java instalado y no requiere conexión a internet.  
-(Ref. Actividad 2, p. 4–6) :contentReference[oaicite:3]{index=3}
 
 ### Arquitectura del Sistema
 El sistema utiliza una arquitectura sencilla de **tres capas**:
@@ -48,7 +46,6 @@ El sistema utiliza una arquitectura sencilla de **tres capas**:
    - Uso de FileReader, FileWriter, BufferedReader, etc.
 
 Esta arquitectura garantiza mantenimiento sencillo, modularidad y separación de responsabilidades.  
-(Ref. Actividad 3, p. 6) :contentReference[oaicite:4]{index=4}
 
 ---
 
