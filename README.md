@@ -51,18 +51,17 @@ Esta arquitectura garantiza mantenimiento sencillo, modularidad y separación de
 
 ## Tabla de Contenidos
 
-- [Resumen Ejecutivo](#resumen-ejecutivo)
-  - [Descripción del Proyecto](#descripción-del-proyecto)
-  - [Problema Identificado](#problema-identificado)
-  - [Solución Propuesta](#solución-propuesta)
-  - [Arquitectura del Sistema](#arquitectura-del-sistema)
-- [Requerimientos](#requerimientos)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Roadmap](#roadmap)
-- [Créditos](#créditos)
+[Requerimientos](https://github.com/PamelitaGT15/Actividad3Taller/wiki/Requerimientos-del-Sistema)
+
+[Instalación](https://github.com/PamelitaGT15/Actividad3Taller/wiki/Instalaci%C3%B3n)
+
+[Configuración](https://github.com/PamelitaGT15/Actividad3Taller/wiki/Configuraci%C3%B3n)
+
+[Uso del sistema](https://github.com/PamelitaGT15/Actividad3Taller/wiki/Uso-del-Sistema)
+
+[Contribución](https://github.com/PamelitaGT15/Actividad3Taller/wiki/Contribuci%C3%B3n)
+
+[Roadmap](https://github.com/PamelitaGT15/Actividad3Taller/wiki/Roadmap)
 
 ---
 
